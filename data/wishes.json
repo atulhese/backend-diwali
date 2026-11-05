@@ -1,0 +1,26 @@
+[
+  {
+    "id": "wish-1",
+    "name": "Aarav & Family",
+    "city": "Mumbai",
+    "message": "May the divine lights of Diwali illuminate our hearts with joy, good health, and abundant prosperity. Shubh Deepavali to everyone! 🪔✨",
+    "date": "Just now",
+    "likes": 24
+  },
+  {
+    "id": "wish-2",
+    "name": "Dr. Sunita Sharma",
+    "city": "New Delhi",
+    "message": "Wishing every family a blessed Lakshmi Puja. Let's celebrate with green lights, love, and compassion for every living being! 🪔🌸",
+    "date": "10 mins ago",
+    "likes": 19
+  },
+  {
+    "id": "wish-3",
+    "name": "Rohan & Sneha",
+    "city": "Bengaluru",
+    "message": "Happy Diwali to all our friends across the globe! May the darkness turn into bright radiant dawn of peace and fortune. 🪔🌟",
+    "date": "35 mins ago",
+    "likes": 31
+  }
+]

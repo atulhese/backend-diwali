@@ -1,0 +1,86 @@
+[
+  {
+    "id": "evt-1",
+    "title": "Grand Diwali Mela & Cultural Carnival 2026",
+    "category": "Festival & Mela",
+    "date": "November 08, 2026",
+    "time": "05:00 PM - 11:00 PM IST",
+    "location": "Shubh Utsav Grounds, Heritage Avenue",
+    "organizer": "Diwali Mahotsav Committee",
+    "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1000&q=80",
+    "description": "Immerse in India's brightest celebration! Over 100 handicraft stalls, live folk dance, traditional food street, puppet show, and a synchronized music & laser fountain.",
+    "ticketPrice": 0,
+    "totalSpots": 500,
+    "bookedSpots": 342,
+    "highlights": [
+      "Live Kathak & Garba performances",
+      "Street Food Bazaar",
+      "Kids Joyride Zone",
+      "Free entry for family"
+    ],
+    "status": "Open"
+  },
+  {
+    "id": "evt-2",
+    "title": "Community Lakshmi-Ganesh Maha Aarti & Deepotsav",
+    "category": "Puja & Aarti",
+    "date": "November 09, 2026 (Diwali Night)",
+    "time": "06:30 PM - 09:00 PM IST",
+    "location": "Shri Mahalakshmi Temple Courtyard & Live Stream",
+    "organizer": "Devasthan Trust",
+    "banner": "https://images.unsplash.com/photo-1574267432553-4b4628081c31?auto=format&fit=crop&w=1000&q=80",
+    "description": "Join thousands of devotees lighting 51,000 ghee diyas together during the auspicious Pradosh Kaal Lakshmi Puja. Chanting by 21 Vedic pandits.",
+    "ticketPrice": 0,
+    "totalSpots": 1000,
+    "bookedSpots": 810,
+    "highlights": [
+      "51,000 Diyas lighting ceremony",
+      "Vedic Mantra Chanting",
+      "Special Prasad distribution",
+      "Worldwide 4K Live Broadcast"
+    ],
+    "status": "Filling Fast"
+  },
+  {
+    "id": "evt-3",
+    "title": "National Rangoli Championship & Masterclass",
+    "category": "Workshop & Contest",
+    "date": "November 07, 2026",
+    "time": "10:00 AM - 02:00 PM IST",
+    "location": "Kala Bhavan Cultural Center",
+    "organizer": "Indian Folk Art Guild",
+    "banner": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1000&q=80",
+    "description": "Showcase your artistic talent in freehand, floral, and portrait rangoli. Cash prizes worth ₹51,000 for top 3 winners, plus certification for all participants.",
+    "ticketPrice": 199,
+    "totalSpots": 150,
+    "bookedSpots": 112,
+    "highlights": [
+      "Colors and tools provided",
+      "Judged by renowned folk artists",
+      "Grand Trophy & Cash Prizes",
+      "Live tutorial workshop"
+    ],
+    "status": "Open"
+  },
+  {
+    "id": "evt-4",
+    "title": "Eco-Friendly Musical Drone & Sky Lantern Spectacle",
+    "category": "Light Show",
+    "date": "November 09, 2026",
+    "time": "09:30 PM - 10:30 PM IST",
+    "location": "City Lake Promenade",
+    "organizer": "Green City Council",
+    "banner": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?auto=format&fit=crop&w=1000&q=80",
+    "description": "An awe-inspiring pollution-free sky show featuring 800 synchronized LED drones forming Ramayana scenes, diyas, and greetings in the night sky.",
+    "ticketPrice": 99,
+    "totalSpots": 400,
+    "bookedSpots": 388,
+    "highlights": [
+      "800 Drones in sync",
+      "No noise or smoke",
+      "Synchronized orchestral music",
+      "Spectacular lakeside views"
+    ],
+    "status": "Almost Full"
+  }
+]

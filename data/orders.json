@@ -1,0 +1,72 @@
+[
+  {
+    "orderId": "ORD-DIWALI-679690",
+    "createdAt": "2026-11-05T17:11:19.690Z",
+    "status": "Confirmed",
+    "deliveryStatus": "Preparing for Shubh Diwali Dispatch",
+    "estimatedDelivery": "November 07, 2026",
+    "customer": {
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "phone": "9876543210"
+    },
+    "deliveryAddress": {
+      "address": "Flat 402, Lotus Residency, MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Handcrafted Terracotta Clay Diyas (Set of 12)",
+        "category": "Diyas & Candles",
+        "price": 249,
+        "quantity": 2,
+        "image": "https://images.unsplash.com/photo-1574267432553-4b4628081c31?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "prod-4",
+        "name": "Royal Kaju Katli & Assorted Dry Fruit Gift Hamper (1kg)",
+        "category": "Sweets & Dry Fruits",
+        "price": 1199,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "pricing": {
+      "subtotal": 1697,
+      "discount": 424,
+      "couponCode": "DIWALI2026",
+      "finalTotal": 1273,
+      "hasFreeGift": true
+    },
+    "paymentDetails": {
+      "method": "UPI",
+      "transactionId": "TXN-SHUBH-49359839",
+      "status": "Paid"
+    },
+    "trackingTimeline": [
+      {
+        "step": "Order Placed & Confirmed",
+        "time": "10:41:19 pm",
+        "completed": true
+      },
+      {
+        "step": "Packed with Shubh Puja Blessing",
+        "time": "Pending",
+        "completed": false
+      },
+      {
+        "step": "Shipped via Express Express",
+        "time": "Pending",
+        "completed": false
+      },
+      {
+        "step": "Delivered to Doorstep",
+        "time": "Estimated Nov 07",
+        "completed": false
+      }
+    ]
+  }
+]
